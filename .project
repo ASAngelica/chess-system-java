@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>UML/chess-system-design.png</name>
+			<type>1</type>
+			<location>C:/Temp/ws-chessMatch/chess-system/chess-system-design.png</location>
+		</link>
+	</linkedResources>
 </projectDescription>
